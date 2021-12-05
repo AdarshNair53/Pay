@@ -1,4 +1,5 @@
 #### Paycheck
+
 Create and test a function to compute net pay from
 payment, work and tax credit information.
 
@@ -15,4 +16,16 @@ following information:
 We will assume a standard rate of 20% and a higher
 rate of 40% (we will ignore PRSI, USC etc.)
 
+***Conditions
+-Netpay cannot exceed gross pay.
+-Overtime pay or overtime hours cannot be negative .
+-Regular hours cannot exceed hours worked.
+-Hire tax cannot be negative .
+-Net pay cannot be negative.
+
+## Usage
+Paycheck.py
+
+##Output
+  {First_Name}_{Last_Name}_{Date}_cpayment.txt
 
