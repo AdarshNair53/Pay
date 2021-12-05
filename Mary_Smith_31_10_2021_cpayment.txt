@@ -1,0 +1,28 @@
+*****COMPUTE PAYMENT*****
+
+ID: 123457
+Name: SmithMary
+Date: 31_10_2021
+
+
+Regular Hours Worked:  35
+Regular Pay:           595
+Regular Rate:          17
+Overtime Rate:         25.5
+Overtime Hours Worked: 5
+
+***************************
+Overtime Pay:          127.5
+Gross Pay:             722.5
+Standard Rate Pay:     600
+Heigher Rate Pay:      122.5
+***************************
+Standard Tax:          120.0
+Heigher Tax:           49.0
+Total Tax:             169.0
+Tax Credit:            80
+
+***************************
+Net Deductions:        89.0
+Net Pay:               511.0
+***************************

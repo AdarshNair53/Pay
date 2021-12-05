@@ -1,0 +1,28 @@
+*****COMPUTE PAYMENT*****
+
+ID: 123456
+Name: DoeJohn
+Date: 30_10_2021
+
+
+Regular Hours Worked:  37
+Regular Pay:           560
+Regular Rate:          16
+Overtime Rate:         32.0
+Overtime Hours Worked: 0
+
+***************************
+Overtime Pay:          0.0
+Gross Pay:             560.0
+Standard Rate Pay:     700
+Heigher Rate Pay:      0
+***************************
+Standard Tax:          140.0
+Heigher Tax:           0.0
+Total Tax:             140.0
+Tax Credit:            70
+
+***************************
+Net Deductions:        70.0
+Net Pay:               630.0
+***************************
